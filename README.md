@@ -56,9 +56,6 @@ Navigate to the project folder.
 
 Open and run the main Java file to start the shopping experience.
 
-📸 Screenshot
-Add screenshots or images showing the shopping process or application flow.
-
 📌 Future Enhancements
 Implement a Graphical User Interface (GUI) for a more user-friendly shopping experience using JavaFX or Swing.
 
