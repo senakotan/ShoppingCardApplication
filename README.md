@@ -28,6 +28,7 @@ Discount System:
 Standard users get a 20% discount, while Premium users get a 50% discount on their total purchase.
 
 💡 Technologies Used
+
 Java (Object-Oriented Programming)
 
 Collections Framework (for product management and user handling)
@@ -46,6 +47,7 @@ Product.java: Represents a product in the shopping app, including its details su
 Cart.java: Manages the user's shopping cart, including adding/removing products, calculating total price, and applying discounts.
 
 🚀 How to Run
+
 Clone the repository:
 git clone https://github.com/your-username/shopping-app.git
 Navigate to the project folder.
@@ -53,6 +55,7 @@ Navigate to the project folder.
 Open and run the main Java file to start the shopping experience.
 
 📌 Future Enhancements
+
 Implement a Graphical User Interface (GUI) for a more user-friendly shopping experience using JavaFX or Swing.
 
 Add additional features like order history or multiple payment options.
