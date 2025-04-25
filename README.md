@@ -47,10 +47,6 @@ Cart.java: Manages the user's shopping cart, including adding/removing products,
 
 🚀 How to Run
 Clone the repository:
-
-bash
-Kopyala
-Düzenle
 git clone https://github.com/your-username/shopping-app.git
 Navigate to the project folder.
 
