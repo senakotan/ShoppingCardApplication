@@ -36,6 +36,7 @@ Collections Framework (for product management and user handling)
 Console-based interface for interaction
 
 🖥 Project Structure
+
 User.java: The base class representing a user with basic information like ID, name, and balance.
 
 StandardUser.java: A subclass of User, representing a standard user with specific limits on the number of products they can add to the cart.
