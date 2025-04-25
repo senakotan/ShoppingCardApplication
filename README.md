@@ -3,6 +3,7 @@
 Welcome to the Shopping App! This is an e-commerce application built using Java that simulates a basic shopping experience. Users can create accounts, add products to their cart, and purchase items while managing their balance and product limits. It features different types of users, such as Standard and Premium users, with varying product limits and discounts.
 
 🎯 Features
+
 User Types:
 
 Standard User: Has a limited number of products they can purchase.
